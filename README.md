@@ -21,6 +21,7 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/e05c97f8-b035-4e4d-86e8-f91a73aa95a8)
 
 ## Output:
+![WhatsApp Image 2023-11-28 at 13 32 45](https://github.com/vatsan143/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/147368204/5017e4a8-2839-449f-9e35-6d43a2a41b48)
 
 ### Name:
 ### Register Number:
